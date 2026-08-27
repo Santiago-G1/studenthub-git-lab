@@ -7,3 +7,4 @@ La funcionalidad permitirá consultar:
 - correo;
 - programa académico;
 - semestre.
+- edad
