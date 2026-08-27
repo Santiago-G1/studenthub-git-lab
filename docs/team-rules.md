@@ -1,0 +1,1 @@
+seguir las reglas
